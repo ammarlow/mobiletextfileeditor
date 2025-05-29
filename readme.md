@@ -22,21 +22,8 @@ A lightweight and user-friendly mobile app for creating, editing, and managing .
 Prerequisites
 A device running Android or iOS
 
-(Optional) Flutter SDK if you're building from source
-
 Installation
-From App Store / Play Store:
-[Coming soon or add your store link here]
-
-From Source:
-bash
-Copy
-Edit
-cd txt-file-editor
-flutter pub get
-flutter run
-🧩 Technologies Used
-Flutter / Dart
+I built this for my personal use only. You can run using expo if u want to use it
 
 Path Provider (for file system access)
 
