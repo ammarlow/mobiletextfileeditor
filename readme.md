@@ -32,7 +32,6 @@ From Source:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/txt-file-editor.git
 cd txt-file-editor
 flutter pub get
 flutter run
